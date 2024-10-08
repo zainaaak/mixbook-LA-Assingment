@@ -1,0 +1,56 @@
+body {
+  background-color: rgba(148, 167, 142, 0.778);
+  text-align: center;
+  width: 900px;
+  margin: 25px auto;
+  text-align: center;
+  padding: 50px 0 0;
+  border-radius: 25px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-variant: normal;
+  font-weight: bold;
+}
+
+table {
+  padding: 50px;
+}
+
+.dark {
+  background-color: darkgrey;
+}
+
+#para {
+  border-radius: 2px;
+  border-bottom: lightgrey;
+}
+
+td {
+  background-color: lightgray;
+  border-radius: 12px;
+}
+
+html {
+  background-color: rgba(52, 57, 46, 0.966);
+}
+td {
+  border: 1px solid black;
+}
+
+#lala {
+  border-radius: 4px;
+  border-color: antiquewhite;
+}
+
+p {
+  padding: 50px;
+}
+
+#papa:hover {
+  color: blanchedalmond;
+}
+
+html {
+  background-image: url(images/bagournd\ for\ la.jpg);
+  background-size: cover;
+}
